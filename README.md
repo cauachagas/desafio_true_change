@@ -1,3 +1,8 @@
+https://desafiotruechange-sandbox.mxapps.io/index.html?profile=Responsive
+
+- Login `demo_vendedor` e Senha `Ov4teU5N4l`
+- Login `demo_administrator` e Senha `RpsAzAuzC5`
+
 # Descrição
 
 ## Objetivo
@@ -100,3 +105,9 @@ capacidade de deletar todos os pedidos.
   ### Domain Model Final
   
   ![Domain_Model_Final](https://github.com/user-attachments/assets/bfd4d07c-3e7c-4e1c-9664-7b9a0ee5e86a)
+
+
+  ## Testes
+
+  ![image](https://github.com/user-attachments/assets/b254c5bb-7776-44c8-b26c-6df385bfc920)
+
